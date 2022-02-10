@@ -1,0 +1,4 @@
+com\tcs\jwt\resource\Foo.class
+com\tcs\jwt\config\JWTSecurityConfig.class
+com\tcs\jwt\api\FooController.class
+com\tcs\jwt\JWTResourceServerApp.class
